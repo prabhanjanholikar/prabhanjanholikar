@@ -7,7 +7,7 @@
  #### Interests include learning new technical skills to excel in field of computer science to tackle real life problems using technology.
 
  ![Prabhanjan's github stats](https://github-readme-stats.vercel.app/api?username=prabhanjanholikar&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
- ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanjanholikar &theme=dracula&layout=compact)
+ ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanjanholikar&theme=dracula&layout=compact)
 
 
   <hr>
